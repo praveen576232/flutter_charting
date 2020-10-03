@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832609777833",
+    "firebase_url": "https://charting-33839.firebaseio.com",
+    "project_id": "charting-33839",
+    "storage_bucket": "charting-33839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832609777833:android:d57805a316a51c6aa7d1b8",
+        "android_client_info": {
+          "package_name": "com.example.charting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832609777833-prl3auo863rsa80ra1fe3lf24bqbih1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.charting",
+            "certificate_hash": "c59e6c8ef0da0c52329a004712a90576b632245a"
+          }
+        },
+        {
+          "client_id": "832609777833-onkegrqn64b480dfnn9if39ff57j3avu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8gv7xdG35m7CuT1j6NISbVnsSKSVYNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832609777833-onkegrqn64b480dfnn9if39ff57j3avu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
